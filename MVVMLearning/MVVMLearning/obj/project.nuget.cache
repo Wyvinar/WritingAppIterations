@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6h5KG9/nPRuPIdQDRBqvCpfp9C1Eoit/eIJ3BGuGHMXMmvnfWehlH29nuOi5eND5TtFYVG5LYjpkpB82+EuMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wyvinar\\Documents\\Programs\\C#\\MVVMLearning\\MVVMLearning\\MVVMLearning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wyvinar\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Wyvinar\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
